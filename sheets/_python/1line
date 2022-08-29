@@ -41,6 +41,7 @@ python -c "import csv,json;print(json.dumps(list(csv.reader(open('2017.csv')))))
 
 #
 # MISC
+
 # -------------------------
 
 # Print a 9 * 9 multiplication table
